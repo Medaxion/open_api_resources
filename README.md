@@ -1,4 +1,5 @@
-# open_api_resources
-Medaxion Pulse Platform Open API
+Welcome to the github repository for the Medaxion Pulse Platform Open API.
 
-Please see the wiki: https://github.com/Medaxion/open_api_resources/wiki
+All 
+
+For information on consuming the Medaxion Pulse Platform Open API [please see the wiki](https://github.com/Medaxion/open_api_resources/wiki).
